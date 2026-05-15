@@ -1,4 +1,4 @@
-# ManufacturIQ — Manufacturing Profitability & Costing Platform
+# Future Cost — Manufacturing Profitability & Costing Platform
 
 Enterprise-grade product costing and profitability analysis system inspired by SAP ERP Product Costing + Power BI.
 

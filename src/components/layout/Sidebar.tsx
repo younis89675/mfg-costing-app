@@ -27,7 +27,7 @@ export function Sidebar() {
           <Factory className="w-4 h-4 text-white" />
         </div>
         <div>
-          <p className="text-sm font-bold text-slate-900 dark:text-white leading-none">ManufacturIQ</p>
+          <p className="text-sm font-bold text-slate-900 dark:text-white leading-none">Future Cost</p>
           <p className="text-[10px] text-slate-500 dark:text-slate-500 mt-0.5">Costing & Profitability</p>
         </div>
       </div>

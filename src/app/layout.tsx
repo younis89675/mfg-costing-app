@@ -6,7 +6,7 @@ import { ThemeProvider } from '@/components/layout/ThemeProvider'
 const inter = Inter({ subsets: ['latin'], variable: '--font-geist-sans' })
 
 export const metadata: Metadata = {
-  title: 'ManufacturIQ — Product Costing & Profitability',
+  title: 'Future Cost — Product Costing & Profitability',
   description: 'Enterprise manufacturing profitability and BOM costing analysis platform',
 }
 
